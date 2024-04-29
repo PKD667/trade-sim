@@ -1,0 +1,104 @@
+<html>
+<head>
+    <title>Trading Simulation</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        #stockInput {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing: border-box;
+        }
+        #stockForm {
+            border-radius: 5px;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+        #stockForm label {
+            font-size: 20px;
+        }
+        #stockForm input[type=submit] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            float: right;
+        }
+        #stockForm input[type=submit]:hover {
+            background-color: #45a049;
+        }
+        #stockForm::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+        #autocompleteList {
+            position: absolute;
+            border: 1px solid #d4d4d4;
+            border-bottom: none;
+            border-top: none;
+            z-index: 99;
+            /* Position it below the input */
+            top: 100%;
+            left: 0;
+            right: 0;
+        }
+        #autocompleteList div {
+            padding: 10px;
+            cursor: pointer;
+        }
+        #autocompleteList div:hover {
+            background-color: #f0f0f0;
+        }
+        /* Autocomplete container */
+        .autocomplete-items {
+            position: absolute;
+            border: 1px solid #d4d4d4;
+            border-bottom: none;
+            border-top: none;
+            z-index: 99;
+            /* Position it below the input */
+            top: 100%;
+            left: 0;
+            right: 0;
+        }
+        /* Autocomplete items */
+        .autocomplete-items div {
+            padding: 10px;
+            cursor: pointer;
+            background-color: #fff;
+            border-bottom: 1px solid #d4d4d4;
+        }
+        /* Item hover */
+        .autocomplete-items div:hover {
+            background-color: #e9e9e9;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>Trading Simulation</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li class="current"><a href="#">Home</a></li>
+                    <li><a href="/www/graph.html">Graph</a></li>
+                    <li><a href="/www/portfolio.html">Something</a></li>
+                    <li><a href="/www/market.html">Market</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="container">
+        <h1>My Portfolio</h1>
+        <div id="portfolioTable">
+            <!-- Portfolio data will be loaded here -->
+        </div>
+    </div>
+    <script src="/js/portfolio.js"></script>
+</body>
+</html>

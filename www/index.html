@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trading Simulation</title>
+    <!-- include css/header.css-->
+    <link rel="stylesheet" href="/css/header.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>Trading Simulation</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li class="current"><a href="#">Home</a></li>
+                    <li><a href="/www/graph.html">Graph</a></li>
+                    <li><a href="/www/portfolio.html">Portfolio</a></li>
+                    <li><a href="/www/news.html">News</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <section id="main">
+            <h1>Welcome to the Trading Simulator</h1>
+            <p>Start trading virtual stocks and manage your portfolio!</p>
+            <form id="stockForm">
+
+                <label for="stockName">Stock Symbol:</label>
+                <input type="text" id="stockInput" name="stockInput" required>
+                </br>
+                <select id="stockName" name="stockName">
+                    <!--option id="defaultOption" value="GOOG"> - Select a stock - </option-->
+                    <!-- Autocomplete will put value here-->
+                </select>
+                <!--input type="text" id="stockName" name="stockName" required-->
+                <!--div id="autocompleteList" class="autocomplete-items"></div-->
+                <br>
+                <div>
+                    <label for="tradeType">Trade Type:</label>
+                    <select id="tradeType" name="tradeType">
+                        <option value="buy">Buy</option>
+                        <option value="sell">Sell</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="quantity">Quantity ($):</label>
+                    <input type="number" id="quantity" name="quantity">
+                </div>
+        
+                <div>
+                    <input type="submit" value="Place Order">
+                </div>
+            </form>
+        </section>
+    </div>
+</body>
+<script src="/js/autocomplete.js"></script>
+</html>

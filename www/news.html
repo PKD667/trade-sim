@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Analysis</title>
+    <!-- include css/header.css-->
+    <link rel="stylesheet" href="/css/header.css">
+    <style>
+    .news-article img {
+        max-width: 20%; /* This ensures the image is never more than 100% of its container's width */
+        height: auto; /* This maintains the aspect ratio of the image */
+    }   
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>News Analyser</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="/www/index/html">Home</a></li>
+                    <li><a href="/www/graph.html">Graph</a></li>
+                    <li><a href="/www/portfolio.html">Portfolio</a></li>
+                    <li class="current"><a href="/www/news.html">News</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <section id="main">
+            <h1>Welcome to the News Analysis tool</h1>
+            <p>Start trading virtual stocks and manage your portfolio!</p>
+            <form id="stockForm">
+
+                <label for="stockName">Stock </label>
+                <input type="text" id="stockInput" name="stockInput" required>
+                </br>
+                <select id="stockName" name="stockName">
+                    <!--option id="defaultOption" value="GOOG"> - Select a stock - </option-->
+                    <!-- Autocomplete will put value here-->
+                </select>
+                <!--input type="text" id="stockName" name="stockName" required-->
+                <!--div id="autocompleteList" class="autocomplete-items"></div-->
+                <br>
+        
+                <div>
+                    <input type="submit" value="Get News">
+                </div>
+            </form>
+
+            <div id="news">
+                <h2>News</h2>
+                <div id="newsList"></div>
+            </div>
+        </section>
+    </div>
+</body>
+<script src="/js/autocomplete.js"></script>
+<script src="/js/news.js"></script>
+</html>

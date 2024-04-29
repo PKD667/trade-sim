@@ -1,0 +1,1184 @@
+- [27/Nov/2023 16:48:48] "GET /home/pkd/code/py-projects/trade-simupload.wikimedia.org:443 HTTP/1.1" CONNECT - "-" "-"
+- [27/Nov/2023 16:48:48] "GET  HTTP/1.1" 501 Not Implemented - "-" "-"
+[32m - - [27/Nov/2023:16:53:03] "GET - HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:16:53:03] "GET - HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:16:53:03] "GET - HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:16:53:03] "GET - HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:16:53:03] "GET - HTTP/1.1" 404
+[0m[35m - - [27/Nov/2023:16:53:33] "POST - HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:16:53:39] "POST - HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:16:53:39] "POST - HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:16:53:39] "POST - HTTP/1.1" 501
+[0m - - [27/Nov/2023:16:54:09] WebServerThread stopped
+[32m - - [27/Nov/2023:16:56:41] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:16:56:41] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:16:56:41] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:16:56:41] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:16:56:41] "GET /favicon.ico HTTP/1.1" 404
+[0m[35m - - [27/Nov/2023:16:56:46] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:16:56:46] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:16:56:46] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:16:56:47] "POST /autocomplete HTTP/1.1" 501
+[0m - - [27/Nov/2023:16:57:03] WebServerThread stopped
+ - - [27/Nov/2023:16:57:03] WebServerThread stopped
+ - - [27/Nov/2023:16:57:03] WebServerThread stopped
+ - - [27/Nov/2023:16:57:03] WebServer stopped
+ - - [27/Nov/2023:17:38:55] WebServerThread stopped
+ - - [27/Nov/2023:17:38:55] WebServerThread stopped
+ - - [27/Nov/2023:17:38:55] WebServerThread stopped
+ - - [27/Nov/2023:17:38:55] WebServer stopped
+ - - [27/Nov/2023:17:39:55] WebServerThread stopped
+ - - [27/Nov/2023:17:39:55] WebServerThread stopped
+ - - [27/Nov/2023:17:39:55] WebServerThread stopped
+ - - [27/Nov/2023:17:40:23] WebServerThread stopped
+ - - [27/Nov/2023:17:40:23] WebServerThread stopped
+ - - [27/Nov/2023:17:40:23] WebServerThread stopped
+ - - [27/Nov/2023:17:41:35] WebServerThread stopped
+ - - [27/Nov/2023:17:41:35] WebServerThread stopped
+ - - [27/Nov/2023:17:41:35] WebServerThread stopped
+ - - [27/Nov/2023:17:41:35] WebServer stopped
+ - - [27/Nov/2023:17:42:09] WebServerThread stopped
+ - - [27/Nov/2023:17:42:09] WebServerThread stopped
+ - - [27/Nov/2023:17:42:09] WebServerThread stopped
+ - - [27/Nov/2023:17:42:09] WebServer stopped
+[32m - - [27/Nov/2023:17:48:45] "GET / HTTP/1.0" 200
+[0m[32m - - [27/Nov/2023:18:04:56] "GET / HTTP/1.0" 200
+[0m[35m - - [27/Nov/2023:18:08:20] "CONNECT google.com:443 HTTP/1.1" 501
+[0m - - [27/Nov/2023:18:40:19] WebServerThread stopped
+ - - [27/Nov/2023:18:40:19] WebServerThread stopped
+ - - [27/Nov/2023:18:40:19] WebServerThread stopped
+ - - [27/Nov/2023:18:40:19] WebServer stopped
+ - - [27/Nov/2023:18:40:20] WebServerThread stopped
+ - - [27/Nov/2023:18:40:20] WebServerThread stopped
+ - - [27/Nov/2023:18:40:20] WebServerThread stopped
+ - - [27/Nov/2023:18:40:20] WebServer stopped
+ - - [27/Nov/2023:18:40:28] WebServerThread stopped
+ - - [27/Nov/2023:18:40:28] WebServerThread stopped
+ - - [27/Nov/2023:18:40:28] WebServerThread stopped
+ - - [27/Nov/2023:18:40:28] WebServer stopped
+ - - [27/Nov/2023:18:40:28] WebServerThread stopped
+ - - [27/Nov/2023:18:40:28] WebServerThread stopped
+ - - [27/Nov/2023:18:40:28] WebServerThread stopped
+ - - [27/Nov/2023:18:40:28] WebServer stopped
+ - - [27/Nov/2023:18:40:50] WebServerThread stopped
+ - - [27/Nov/2023:18:40:50] WebServerThread stopped
+ - - [27/Nov/2023:18:40:50] WebServerThread stopped
+ - - [27/Nov/2023:18:40:50] WebServer stopped
+ - - [27/Nov/2023:18:41:26] WebServerThread stopped
+ - - [27/Nov/2023:18:41:26] WebServerThread stopped
+ - - [27/Nov/2023:18:41:26] WebServerThread stopped
+ - - [27/Nov/2023:18:41:26] WebServer stopped
+ - - [27/Nov/2023:18:52:25] WebServerThread stopped
+ - - [27/Nov/2023:18:52:25] WebServerThread stopped
+ - - [27/Nov/2023:18:52:25] WebServerThread stopped
+ - - [27/Nov/2023:18:52:25] WebServer stopped
+ - - [27/Nov/2023:18:54:09] WebServerThread stopped
+ - - [27/Nov/2023:18:54:09] WebServerThread stopped
+ - - [27/Nov/2023:18:54:09] WebServerThread stopped
+ - - [27/Nov/2023:18:54:09] WebServer stopped
+[32m - - [27/Nov/2023:18:54:29] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:54:29] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:54:29] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:54:29] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:18:54:29] "GET /favicon.ico HTTP/1.1" 404
+[0m[35m - - [27/Nov/2023:18:54:31] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:54:32] "POST /autocomplete HTTP/1.1" 501
+[0m - - [27/Nov/2023:18:55:21] WebServerThread stopped
+ - - [27/Nov/2023:18:55:21] WebServerThread stopped
+ - - [27/Nov/2023:18:55:21] WebServerThread stopped
+ - - [27/Nov/2023:18:55:21] WebServer stopped
+ - - [27/Nov/2023:18:55:21] WebServerThread stopped
+ - - [27/Nov/2023:18:55:21] WebServerThread stopped
+ - - [27/Nov/2023:18:55:21] WebServerThread stopped
+ - - [27/Nov/2023:18:55:21] WebServer stopped
+[32m - - [27/Nov/2023:18:55:38] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:55:38] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:55:38] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:55:38] "GET /js/graph.js HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:18:55:38] "GET /favicon.ico HTTP/1.1" 404
+[0m[35m - - [27/Nov/2023:18:55:41] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:55:42] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:08] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:08] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:09] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:10] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:10] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:10] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:10] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:10] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:10] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:11] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:11] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:11] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:11] "POST /autocomplete HTTP/1.1" 501
+[0m[32m - - [27/Nov/2023:18:57:13] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:57:13] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:57:13] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:57:13] "GET /js/graph.js HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:18:57:13] "GET /favicon.ico HTTP/1.1" 404
+[0m[35m - - [27/Nov/2023:18:57:26] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:57:26] "POST /autocomplete HTTP/1.1" 501
+[0m[32m - - [27/Nov/2023:18:58:47] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:58:47] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:58:47] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:18:58:47] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:18:58:47] "GET /favicon.ico HTTP/1.1" 404
+[0m[35m - - [27/Nov/2023:18:58:50] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:18:58:50] "POST /autocomplete HTTP/1.1" 501
+[0m - - [27/Nov/2023:19:01:33] WebServerThread stopped
+ - - [27/Nov/2023:19:01:33] WebServerThread stopped
+ - - [27/Nov/2023:19:01:33] WebServerThread stopped
+ - - [27/Nov/2023:19:01:33] WebServer stopped
+ - - [27/Nov/2023:19:01:35] WebServerThread stopped
+ - - [27/Nov/2023:19:01:36] WebServerThread stopped
+ - - [27/Nov/2023:19:01:36] WebServerThread stopped
+ - - [27/Nov/2023:19:01:36] WebServer stopped
+[32m - - [27/Nov/2023:19:01:40] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:01:40] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:01:40] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:01:40] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:19:01:40] "GET /favicon.ico HTTP/1.1" 404
+[0m[35m - - [27/Nov/2023:19:01:43] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:19:01:43] "POST /autocomplete HTTP/1.1" 501
+[0m[35m - - [27/Nov/2023:19:01:44] "POST /autocomplete HTTP/1.1" 501
+[0m - - [27/Nov/2023:19:01:46] WebServerThread stopped
+ - - [27/Nov/2023:19:01:46] WebServerThread stopped
+ - - [27/Nov/2023:19:01:46] WebServerThread stopped
+ - - [27/Nov/2023:19:01:46] WebServer stopped
+ - - [27/Nov/2023:19:01:47] WebServerThread stopped
+ - - [27/Nov/2023:19:01:47] WebServerThread stopped
+ - - [27/Nov/2023:19:01:47] WebServerThread stopped
+ - - [27/Nov/2023:19:01:47] WebServer stopped
+[32m - - [27/Nov/2023:19:03:42] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:03:42] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:03:42] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:03:42] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:19:03:42] "GET /favicon.ico HTTP/1.1" 404
+[0m - - [27/Nov/2023:19:03:44] Using Custom Post API
+ - - [27/Nov/2023:19:03:45] Using Custom Post API
+ - - [27/Nov/2023:19:03:47] Using Custom Post API
+ - - [27/Nov/2023:19:03:49] Using Custom Post API
+ - - [27/Nov/2023:19:03:52] Using Custom Post API
+ - - [27/Nov/2023:19:04:11] Using Custom Post API
+ - - [27/Nov/2023:19:04:15] Using Custom Post API
+ - - [27/Nov/2023:19:05:56] WebServerThread stopped
+ - - [27/Nov/2023:19:05:56] WebServerThread stopped
+ - - [27/Nov/2023:19:05:56] WebServerThread stopped
+ - - [27/Nov/2023:19:05:56] WebServer stopped
+[32m - - [27/Nov/2023:19:05:59] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:05:59] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:05:59] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:05:59] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:19:05:59] "GET /favicon.ico HTTP/1.1" 404
+[0m - - [27/Nov/2023:19:06:01] Using Custom Post API
+ - - [27/Nov/2023:19:06:03] Using Custom Post API
+ - - [27/Nov/2023:19:06:08] Using Custom Post API
+ - - [27/Nov/2023:19:06:09] Using Custom Post API
+ - - [27/Nov/2023:19:06:11] Using Custom Post API
+[32m - - [27/Nov/2023:19:07:09] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:07:09] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:07:09] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:07:09] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:19:07:09] "GET /favicon.ico HTTP/1.1" 404
+[0m - - [27/Nov/2023:19:07:14] Using Custom Post API
+ - - [27/Nov/2023:19:07:19] Using Custom Post API
+ - - [27/Nov/2023:19:07:20] Using Custom Post API
+ - - [27/Nov/2023:19:07:20] Using Custom Post API
+ - - [27/Nov/2023:19:07:23] Using Custom Post API
+[35m - - [27/Nov/2023:19:07:43] "CONNECT google.com:443 HTTP/1.1" 501
+[0m - - [27/Nov/2023:19:10:37] WebServerThread stopped
+ - - [27/Nov/2023:19:10:37] WebServerThread stopped
+ - - [27/Nov/2023:19:10:37] WebServerThread stopped
+ - - [27/Nov/2023:19:10:37] WebServer stopped
+ - - [27/Nov/2023:19:10:37] WebServerThread stopped
+ - - [27/Nov/2023:19:10:37] WebServerThread stopped
+ - - [27/Nov/2023:19:10:37] WebServerThread stopped
+ - - [27/Nov/2023:19:10:37] WebServer stopped
+[32m - - [27/Nov/2023:19:10:42] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:10:42] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:10:42] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:10:42] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:19:10:42] "GET /favicon.ico HTTP/1.1" 404
+[0m - - [27/Nov/2023:19:10:43] Using Custom Post API
+ - - [27/Nov/2023:19:10:45] Using Custom Post API
+ - - [27/Nov/2023:19:10:47] Using Custom Post API
+ - - [27/Nov/2023:19:11:06] WebServerThread stopped
+ - - [27/Nov/2023:19:11:06] WebServerThread stopped
+ - - [27/Nov/2023:19:11:06] WebServerThread stopped
+ - - [27/Nov/2023:19:11:06] WebServer stopped
+ - - [27/Nov/2023:19:11:06] WebServerThread stopped
+ - - [27/Nov/2023:19:11:06] WebServerThread stopped
+ - - [27/Nov/2023:19:11:06] WebServerThread stopped
+ - - [27/Nov/2023:19:11:06] WebServer stopped
+[32m - - [27/Nov/2023:19:11:17] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:11:17] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:11:17] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:11:17] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[31m - - [27/Nov/2023:19:11:17] "GET /favicon.ico HTTP/1.1" 404
+[0m - - [27/Nov/2023:19:11:20] Using Custom Post API
+ - - [27/Nov/2023:19:11:21] Using Custom Post API
+ - - [27/Nov/2023:19:11:21] Using Custom Post API
+ - - [27/Nov/2023:19:11:21] Using Custom Post API
+ - - [27/Nov/2023:19:11:23] Using Custom Post API
+[32m - - [27/Nov/2023:19:12:24] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:12:41] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:12:58] "GET /www/graph.html HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:13:01] Using Custom Post API
+ - - [27/Nov/2023:19:13:01] Using Custom Post API
+ - - [27/Nov/2023:19:13:01] Using Custom Post API
+ - - [27/Nov/2023:19:13:02] Using Custom Post API
+ - - [27/Nov/2023:19:13:02] Using Custom Post API
+ - - [27/Nov/2023:19:13:03] Using Custom Post API
+ - - [27/Nov/2023:19:13:03] Using Custom Post API
+ - - [27/Nov/2023:19:13:04] Using Custom Post API
+ - - [27/Nov/2023:19:13:14] Using Custom Post API
+ - - [27/Nov/2023:19:13:44] Using Custom Post API
+ - - [27/Nov/2023:19:15:03] Using Custom Post API
+ - - [27/Nov/2023:19:15:05] Using Custom Post API
+ - - [27/Nov/2023:19:15:12] Using Custom Post API
+ - - [27/Nov/2023:19:15:22] Using Custom Post API
+ - - [27/Nov/2023:19:15:26] Using Custom Post API
+ - - [27/Nov/2023:19:15:26] Using Custom Post API
+ - - [27/Nov/2023:19:15:27] Using Custom Post API
+ - - [27/Nov/2023:19:15:27] Using Custom Post API
+ - - [27/Nov/2023:19:15:28] Using Custom Post API
+ - - [27/Nov/2023:19:15:28] Using Custom Post API
+ - - [27/Nov/2023:19:15:28] Using Custom Post API
+ - - [27/Nov/2023:19:15:28] Using Custom Post API
+ - - [27/Nov/2023:19:15:30] Using Custom Post API
+ - - [27/Nov/2023:19:15:36] Using Custom Post API
+ - - [27/Nov/2023:19:16:03] Using Custom Post API
+ - - [27/Nov/2023:19:16:05] Using Custom Post API
+ - - [27/Nov/2023:19:16:05] Using Custom Post API
+ - - [27/Nov/2023:19:16:09] Using Custom Post API
+ - - [27/Nov/2023:19:16:09] Using Custom Post API
+ - - [27/Nov/2023:19:16:10] Using Custom Post API
+[32m - - [27/Nov/2023:19:16:14] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:17:52] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:17:53] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:17:54] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:17:54] "GET /www/graph.html HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:17:57] Using Custom Post API
+ - - [27/Nov/2023:19:17:57] Using Custom Post API
+ - - [27/Nov/2023:19:17:58] Using Custom Post API
+ - - [27/Nov/2023:19:17:58] Using Custom Post API
+[32m - - [27/Nov/2023:19:18:10] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:18:10] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:18:10] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:18:10] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:18:10] Using Custom Post API
+[31m - - [27/Nov/2023:19:18:10] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [27/Nov/2023:19:18:46] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:18:46] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:18:46] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:18:46] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:18:46] Using Custom Post API
+[31m - - [27/Nov/2023:19:18:46] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [27/Nov/2023:19:18:47] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:18:47] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:18:47] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:18:47] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:18:47] Using Custom Post API
+[31m - - [27/Nov/2023:19:18:48] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [27/Nov/2023:19:18:59] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:18:59] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:19:00] Using Custom Post API
+[32m - - [27/Nov/2023:19:19:34] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:19:34] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:19:34] Using Custom Post API
+[32m - - [27/Nov/2023:19:19:58] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:19:58] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:19:58] Using Custom Post API
+ - - [27/Nov/2023:19:20:00] Using Custom Post API
+ - - [27/Nov/2023:19:20:05] Using Custom Post API
+ - - [27/Nov/2023:19:20:11] Using Custom Post API
+ - - [27/Nov/2023:19:20:14] Using Custom Post API
+ - - [27/Nov/2023:19:20:32] Using Custom Post API
+ - - [27/Nov/2023:19:20:36] Using Custom Post API
+ - - [27/Nov/2023:19:20:45] Using Custom Post API
+ - - [27/Nov/2023:19:20:45] Using Custom Post API
+ - - [27/Nov/2023:19:20:45] Using Custom Post API
+ - - [27/Nov/2023:19:20:46] Using Custom Post API
+ - - [27/Nov/2023:19:20:57] Using Custom Post API
+ - - [27/Nov/2023:19:20:58] Using Custom Post API
+ - - [27/Nov/2023:19:21:00] Using Custom Post API
+ - - [27/Nov/2023:19:21:01] Using Custom Post API
+ - - [27/Nov/2023:19:21:03] Using Custom Post API
+ - - [27/Nov/2023:19:21:05] Using Custom Post API
+ - - [27/Nov/2023:19:21:08] Using Custom Post API
+ - - [27/Nov/2023:19:21:10] Using Custom Post API
+ - - [27/Nov/2023:19:21:12] Using Custom Post API
+ - - [27/Nov/2023:19:21:13] Using Custom Post API
+ - - [27/Nov/2023:19:21:14] Using Custom Post API
+ - - [27/Nov/2023:19:21:16] Using Custom Post API
+[32m - - [27/Nov/2023:19:21:39] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:21:39] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:21:39] Using Custom Post API
+ - - [27/Nov/2023:19:21:42] Using Custom Post API
+ - - [27/Nov/2023:19:21:46] Using Custom Post API
+ - - [27/Nov/2023:19:21:48] Using Custom Post API
+ - - [27/Nov/2023:19:21:57] Using Custom Post API
+ - - [27/Nov/2023:19:22:01] Using Custom Post API
+ - - [27/Nov/2023:19:22:01] Using Custom Post API
+ - - [27/Nov/2023:19:22:23] Using Custom Post API
+ - - [27/Nov/2023:19:22:24] Using Custom Post API
+ - - [27/Nov/2023:19:22:26] Using Custom Post API
+ - - [27/Nov/2023:19:22:26] Using Custom Post API
+ - - [27/Nov/2023:19:22:26] Using Custom Post API
+[32m - - [27/Nov/2023:19:23:14] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:23:14] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:23:14] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:23:14] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:23:14] Using Custom Post API
+[31m - - [27/Nov/2023:19:23:14] "GET /favicon.ico HTTP/1.1" 404
+[0m - - [27/Nov/2023:19:23:16] Using Custom Post API
+ - - [27/Nov/2023:19:23:17] Using Custom Post API
+ - - [27/Nov/2023:19:23:17] Using Custom Post API
+ - - [27/Nov/2023:19:23:17] Using Custom Post API
+ - - [27/Nov/2023:19:23:32] Using Custom Post API
+ - - [27/Nov/2023:19:27:01] WebServerThread stopped
+ - - [27/Nov/2023:19:27:01] WebServerThread stopped
+ - - [27/Nov/2023:19:27:01] WebServerThread stopped
+ - - [27/Nov/2023:19:27:01] WebServer stopped
+ - - [27/Nov/2023:19:27:02] WebServerThread stopped
+ - - [27/Nov/2023:19:27:02] WebServerThread stopped
+ - - [27/Nov/2023:19:27:02] WebServerThread stopped
+ - - [27/Nov/2023:19:27:02] WebServer stopped
+[32m - - [27/Nov/2023:19:27:08] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:27:08] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:27:08] Using Custom Post API
+ - - [27/Nov/2023:19:27:21] Using Custom Post API
+ - - [27/Nov/2023:19:27:36] Using Custom Post API
+ - - [27/Nov/2023:19:27:41] Using Custom Post API
+ - - [27/Nov/2023:19:28:09] Using Custom Post API
+[32m - - [27/Nov/2023:19:36:23] "GET /www/index.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:36:23] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:36:23] Using Custom Post API
+[32m - - [27/Nov/2023:19:36:44] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [27/Nov/2023:19:36:44] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [27/Nov/2023:19:36:44] Using Custom Post API
+ - - [27/Nov/2023:19:37:13] WebServerThread stopped
+ - - [27/Nov/2023:19:37:13] WebServerThread stopped
+ - - [27/Nov/2023:19:37:13] WebServerThread stopped
+ - - [27/Nov/2023:19:37:13] WebServer stopped
+ - - [27/Nov/2023:19:37:14] WebServerThread stopped
+ - - [27/Nov/2023:19:37:14] WebServerThread stopped
+ - - [27/Nov/2023:19:37:14] WebServerThread stopped
+ - - [27/Nov/2023:19:37:14] WebServer stopped
+[32m - - [28/Nov/2023:13:44:08] "GET / HTTP/1.1" 200
+[0m[33m - - [28/Nov/2023:13:44:13] "GET /www HTTP/1.1" 301
+[0m[32m - - [28/Nov/2023:13:44:13] "GET /www/ HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:13:44:13] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:13:44:13] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:13:44:13] Using Custom Post API
+[32m - - [28/Nov/2023:13:44:15] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:13:44:15] "GET /js/graph.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:13:44:15] Using Custom Post API
+ - - [28/Nov/2023:13:44:18] Using Custom Post API
+ - - [28/Nov/2023:13:44:21] Using Custom Post API
+ - - [28/Nov/2023:13:44:21] Using Custom Post API
+ - - [28/Nov/2023:13:44:22] Using Custom Post API
+ - - [28/Nov/2023:13:44:32] Using Custom Post API
+ - - [28/Nov/2023:13:44:37] Using Custom Post API
+ - - [28/Nov/2023:13:44:42] Using Custom Post API
+[35m - - [28/Nov/2023:13:44:45] "CONNECT google.com:443 HTTP/1.1" 501
+[0m - - [28/Nov/2023:13:46:08] WebServerThread stopped
+ - - [28/Nov/2023:13:46:08] WebServerThread stopped
+ - - [28/Nov/2023:13:46:08] WebServerThread stopped
+ - - [28/Nov/2023:13:46:08] WebServer stopped
+ - - [28/Nov/2023:13:46:08] WebServerThread stopped
+ - - [28/Nov/2023:13:46:08] WebServerThread stopped
+ - - [28/Nov/2023:13:46:08] WebServerThread stopped
+ - - [28/Nov/2023:13:46:08] WebServer stopped
+[32m - - [28/Nov/2023:14:17:35] "GET / HTTP/1.1" 200
+[0m - - [28/Nov/2023:14:17:37] Using Custom Post API
+ - - [28/Nov/2023:14:17:39] Using Custom Post API
+ - - [28/Nov/2023:14:17:42] Using Custom Post API
+ - - [28/Nov/2023:14:19:12] WebServerThread stopped
+ - - [28/Nov/2023:14:19:12] WebServerThread stopped
+ - - [28/Nov/2023:14:19:12] WebServerThread stopped
+ - - [28/Nov/2023:14:19:12] WebServer stopped
+[32m - - [28/Nov/2023:14:19:16] "GET /www/graph.html HTTP/1.1" 200
+[0m - - [28/Nov/2023:14:19:16] Using Custom Post API
+ - - [28/Nov/2023:14:19:18] Using Custom Post API
+ - - [28/Nov/2023:14:19:52] WebServerThread stopped
+ - - [28/Nov/2023:14:19:52] WebServerThread stopped
+ - - [28/Nov/2023:14:19:52] WebServerThread stopped
+ - - [28/Nov/2023:14:19:52] WebServer stopped
+ - - [28/Nov/2023:14:19:53] WebServerThread stopped
+ - - [28/Nov/2023:14:19:53] WebServerThread stopped
+ - - [28/Nov/2023:14:19:53] WebServerThread stopped
+ - - [28/Nov/2023:14:19:53] WebServer stopped
+[32m - - [28/Nov/2023:14:20:07] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:14:20:07] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:14:20:07] "GET /js/graph.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:14:20:07] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:14:20:07] Using Custom Post API
+[31m - - [28/Nov/2023:14:20:07] "GET /favicon.ico HTTP/1.1" 404
+[0m - - [28/Nov/2023:14:20:09] Using Custom Post API
+ - - [28/Nov/2023:14:20:49] WebServerThread stopped
+ - - [28/Nov/2023:14:20:49] WebServerThread stopped
+ - - [28/Nov/2023:14:20:49] WebServerThread stopped
+ - - [28/Nov/2023:14:20:49] WebServer stopped
+ - - [28/Nov/2023:14:20:50] WebServerThread stopped
+ - - [28/Nov/2023:14:20:50] WebServerThread stopped
+ - - [28/Nov/2023:14:20:50] WebServerThread stopped
+ - - [28/Nov/2023:14:20:50] WebServer stopped
+[32m - - [28/Nov/2023:14:21:05] "GET /www/graph.html HTTP/1.1" 200
+[0m - - [28/Nov/2023:14:21:05] Using Custom Post API
+ - - [28/Nov/2023:14:21:06] Using Custom Post API
+ - - [28/Nov/2023:14:21:43] WebServerThread stopped
+ - - [28/Nov/2023:14:21:43] WebServerThread stopped
+ - - [28/Nov/2023:14:21:43] WebServerThread stopped
+ - - [28/Nov/2023:14:21:43] WebServer stopped
+ - - [28/Nov/2023:14:21:43] WebServerThread stopped
+ - - [28/Nov/2023:14:21:43] WebServerThread stopped
+ - - [28/Nov/2023:14:21:43] WebServerThread stopped
+ - - [28/Nov/2023:14:21:43] WebServer stopped
+ - - [28/Nov/2023:14:21:58] Using Custom Post API
+ - - [28/Nov/2023:14:22:00] Using Custom Post API
+ - - [28/Nov/2023:14:22:31] WebServerThread stopped
+ - - [28/Nov/2023:14:22:31] WebServerThread stopped
+ - - [28/Nov/2023:14:22:31] WebServerThread stopped
+ - - [28/Nov/2023:14:22:31] WebServer stopped
+ - - [28/Nov/2023:14:22:33] WebServerThread stopped
+ - - [28/Nov/2023:14:22:33] WebServerThread stopped
+ - - [28/Nov/2023:14:22:33] WebServerThread stopped
+ - - [28/Nov/2023:14:22:33] WebServer stopped
+ - - [28/Nov/2023:14:22:42] Using Custom Post API
+ - - [28/Nov/2023:14:22:43] Using Custom Post API
+ - - [28/Nov/2023:14:22:50] Using Custom Post API
+ - - [28/Nov/2023:14:23:02] Using Custom Post API
+ - - [28/Nov/2023:14:23:02] Using Custom Post API
+ - - [28/Nov/2023:14:23:02] Using Custom Post API
+ - - [28/Nov/2023:14:23:02] Using Custom Post API
+ - - [28/Nov/2023:14:23:08] Using Custom Post API
+ - - [28/Nov/2023:14:23:08] Using Custom Post API
+ - - [28/Nov/2023:14:23:13] Using Custom Post API
+ - - [28/Nov/2023:14:23:17] Using Custom Post API
+[32m - - [28/Nov/2023:18:44:07] "GET /www/index.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:44:07] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:44:07] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:44:07] Using Custom Post API
+[32m - - [28/Nov/2023:18:44:09] "GET /www/graph.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:44:09] "GET /js/graph.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:44:09] Using Custom Post API
+ - - [28/Nov/2023:18:44:12] Using Custom Post API
+ - - [28/Nov/2023:18:44:12] Using Custom Post API
+ - - [28/Nov/2023:18:44:12] Using Custom Post API
+ - - [28/Nov/2023:18:44:12] Using Custom Post API
+ - - [28/Nov/2023:18:44:20] Using Custom Post API
+ - - [28/Nov/2023:18:44:21] Using Custom Post API
+ - - [28/Nov/2023:18:44:25] Using Custom Post API
+[32m - - [28/Nov/2023:18:44:33] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:44:33] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:44:33] Using Custom Post API
+ - - [28/Nov/2023:18:44:35] Using Custom Post API
+ - - [28/Nov/2023:18:44:35] Using Custom Post API
+ - - [28/Nov/2023:18:44:36] Using Custom Post API
+ - - [28/Nov/2023:18:44:37] Using Custom Post API
+[31m - - [28/Nov/2023:18:44:39] "GET /news/stock?stock=AAPL HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:18:46:37] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:46:37] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:46:37] Using Custom Post API
+ - - [28/Nov/2023:18:46:38] Using Custom Post API
+[32m - - [28/Nov/2023:18:46:55] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:46:55] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:46:55] Using Custom Post API
+ - - [28/Nov/2023:18:46:56] Using Custom Post API
+ - - [28/Nov/2023:18:46:57] Using Custom Post API
+ - - [28/Nov/2023:18:46:57] Using Custom Post API
+ - - [28/Nov/2023:18:46:57] Using Custom Post API
+ - - [28/Nov/2023:18:46:57] Using Custom Post API
+ - - [28/Nov/2023:18:46:57] Using Custom Post API
+[32m - - [28/Nov/2023:18:48:11] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:48:11] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:48:11] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:48:11] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:48:11] Using Custom Post API
+[31m - - [28/Nov/2023:18:48:11] "GET /favicon.ico HTTP/1.1" 404
+[0m - - [28/Nov/2023:18:48:13] Using Custom Post API
+ - - [28/Nov/2023:18:49:53] WebServerThread stopped
+ - - [28/Nov/2023:18:49:53] WebServerThread stopped
+ - - [28/Nov/2023:18:49:53] WebServerThread stopped
+ - - [28/Nov/2023:18:49:53] WebServer stopped
+ - - [28/Nov/2023:18:49:55] WebServerThread stopped
+ - - [28/Nov/2023:18:49:55] WebServerThread stopped
+ - - [28/Nov/2023:18:49:55] WebServerThread stopped
+ - - [28/Nov/2023:18:49:55] WebServer stopped
+[32m - - [28/Nov/2023:18:49:59] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:50:00] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:50:00] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:50:00] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:50:00] Using Custom Post API
+[31m - - [28/Nov/2023:18:50:00] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:18:50:00] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:50:02] Using Custom Post API
+ - - [28/Nov/2023:18:50:43] WebServerThread stopped
+ - - [28/Nov/2023:18:50:43] WebServerThread stopped
+ - - [28/Nov/2023:18:50:43] WebServerThread stopped
+ - - [28/Nov/2023:18:50:43] WebServer stopped
+ - - [28/Nov/2023:18:50:46] WebServerThread stopped
+ - - [28/Nov/2023:18:50:46] WebServerThread stopped
+ - - [28/Nov/2023:18:50:46] WebServerThread stopped
+ - - [28/Nov/2023:18:50:46] WebServer stopped
+[32m - - [28/Nov/2023:18:50:56] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:50:56] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:50:56] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:50:56] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:50:56] Using Custom Post API
+[31m - - [28/Nov/2023:18:50:56] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:18:50:57] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:50:59] Using Custom Post API
+[32m - - [28/Nov/2023:18:51:00] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:51:00] Using Custom Post API
+[32m - - [28/Nov/2023:18:51:01] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:51:02] Using Custom Post API
+ - - [28/Nov/2023:18:51:51] WebServerThread stopped
+ - - [28/Nov/2023:18:51:51] WebServerThread stopped
+ - - [28/Nov/2023:18:51:51] WebServerThread stopped
+ - - [28/Nov/2023:18:51:51] WebServer stopped
+ - - [28/Nov/2023:18:51:53] WebServerThread stopped
+ - - [28/Nov/2023:18:51:53] WebServerThread stopped
+ - - [28/Nov/2023:18:51:53] WebServerThread stopped
+ - - [28/Nov/2023:18:51:53] WebServer stopped
+[32m - - [28/Nov/2023:18:52:01] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:52:01] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:52:01] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:52:01] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:52:01] Using Custom Post API
+[31m - - [28/Nov/2023:18:52:01] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:18:52:02] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:52:04] Using Custom Post API
+[32m - - [28/Nov/2023:18:52:04] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:52:05] Using Custom Post API
+[32m - - [28/Nov/2023:18:52:05] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:52:06] Using Custom Post API
+[32m - - [28/Nov/2023:18:52:07] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:53:52] Using Custom Post API
+ - - [28/Nov/2023:18:54:24] Using Custom Post API
+[32m - - [28/Nov/2023:18:54:25] "POST /news/stock HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:55:20] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:55:20] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:55:20] "GET /js/news.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:55:20] "GET /css/header.css HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:55:20] Using Custom Post API
+[31m - - [28/Nov/2023:18:55:20] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:18:55:20] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:55:24] Using Custom Post API
+[32m - - [28/Nov/2023:18:55:24] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:55:48] Using Custom Post API
+ - - [28/Nov/2023:18:55:49] Using Custom Post API
+[32m - - [28/Nov/2023:18:55:49] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:55:49] Using Custom Post API
+[32m - - [28/Nov/2023:18:55:49] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:55:49] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:55:49] Using Custom Post API
+ - - [28/Nov/2023:18:55:49] Using Custom Post API
+[32m - - [28/Nov/2023:18:55:49] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:55:50] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:55:50] Using Custom Post API
+ - - [28/Nov/2023:18:55:50] Using Custom Post API
+[32m - - [28/Nov/2023:18:55:50] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:55:50] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:55:52] Using Custom Post API
+[32m - - [28/Nov/2023:18:55:52] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:55:55] Using Custom Post API
+[32m - - [28/Nov/2023:18:55:56] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:56:04] Using Custom Post API
+[32m - - [28/Nov/2023:18:56:05] "POST /news/stock HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:58:36] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:58:36] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:58:36] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:58:36] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:58:37] Using Custom Post API
+[31m - - [28/Nov/2023:18:58:37] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:18:58:37] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:58:38] Using Custom Post API
+ - - [28/Nov/2023:18:58:38] Using Custom Post API
+[32m - - [28/Nov/2023:18:58:38] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:58:38] Using Custom Post API
+[32m - - [28/Nov/2023:18:58:38] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:58:39] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:58:39] Using Custom Post API
+[32m - - [28/Nov/2023:18:58:39] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:58:39] Using Custom Post API
+ - - [28/Nov/2023:18:58:39] Using Custom Post API
+[32m - - [28/Nov/2023:18:58:39] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:58:40] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:58:40] Using Custom Post API
+[32m - - [28/Nov/2023:18:58:40] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:58:42] Using Custom Post API
+[32m - - [28/Nov/2023:18:58:44] "POST /news/stock HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:59:07] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:59:07] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:07] Using Custom Post API
+[31m - - [28/Nov/2023:18:59:07] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:18:59:08] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:11] Using Custom Post API
+ - - [28/Nov/2023:18:59:11] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:11] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:11] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:11] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:59:11] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:13] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:14] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:15] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:15] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:16] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:17] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:28] WebServerThread stopped
+ - - [28/Nov/2023:18:59:28] WebServerThread stopped
+ - - [28/Nov/2023:18:59:28] WebServerThread stopped
+ - - [28/Nov/2023:18:59:28] WebServer stopped
+ - - [28/Nov/2023:18:59:32] WebServerThread stopped
+ - - [28/Nov/2023:18:59:32] WebServerThread stopped
+ - - [28/Nov/2023:18:59:32] WebServerThread stopped
+ - - [28/Nov/2023:18:59:32] WebServer stopped
+[32m - - [28/Nov/2023:18:59:41] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:59:41] "GET /js/news.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:59:41] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:41] Using Custom Post API
+[31m - - [28/Nov/2023:18:59:41] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:18:59:41] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:45] Using Custom Post API
+ - - [28/Nov/2023:18:59:45] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:45] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:45] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:45] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:46] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:46] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:59:46] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:48] Using Custom Post API
+ - - [28/Nov/2023:18:59:48] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:48] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:59:49] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:50] Using Custom Post API
+ - - [28/Nov/2023:18:59:51] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:51] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:18:59:51] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:52] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:53] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:53] Using Custom Post API
+[32m - - [28/Nov/2023:18:59:54] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:18:59:56] Using Custom Post API
+ - - [28/Nov/2023:19:01:00] WebServerThread stopped
+ - - [28/Nov/2023:19:01:00] WebServerThread stopped
+ - - [28/Nov/2023:19:01:00] WebServerThread stopped
+ - - [28/Nov/2023:19:01:00] WebServer stopped
+ - - [28/Nov/2023:19:01:01] WebServerThread stopped
+ - - [28/Nov/2023:19:01:01] WebServerThread stopped
+ - - [28/Nov/2023:19:01:01] WebServerThread stopped
+ - - [28/Nov/2023:19:01:01] WebServer stopped
+[32m - - [28/Nov/2023:19:01:10] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:01:10] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:10] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:10] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:12] Using Custom Post API
+ - - [28/Nov/2023:19:01:13] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:13] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:13] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:13] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:13] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:13] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:01:13] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:15] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:15] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:15] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:16] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:18] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:19] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:32] Using Custom Post API
+ - - [28/Nov/2023:19:01:32] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:32] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:32] Using Custom Post API
+ - - [28/Nov/2023:19:01:32] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:32] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:01:32] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:01:33] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:34] Using Custom Post API
+ - - [28/Nov/2023:19:01:34] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:34] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:01:34] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:35] Using Custom Post API
+ - - [28/Nov/2023:19:01:35] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:35] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:01:35] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:36] Using Custom Post API
+ - - [28/Nov/2023:19:01:37] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:37] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:01:37] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:38] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:38] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:38] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:39] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:01:41] Using Custom Post API
+[32m - - [28/Nov/2023:19:01:42] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:02:04] Using Custom Post API
+[32m - - [28/Nov/2023:19:02:04] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:02:06] Using Custom Post API
+ - - [28/Nov/2023:19:02:07] Using Custom Post API
+ - - [28/Nov/2023:19:02:07] Using Custom Post API
+[32m - - [28/Nov/2023:19:02:07] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:02:07] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:02:07] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:02:08] Using Custom Post API
+ - - [28/Nov/2023:19:02:08] Using Custom Post API
+[32m - - [28/Nov/2023:19:02:08] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:02:09] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:02:10] Using Custom Post API
+[32m - - [28/Nov/2023:19:02:11] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:02:12] Using Custom Post API
+[32m - - [28/Nov/2023:19:02:13] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:02:28] Using Custom Post API
+ - - [28/Nov/2023:19:02:29] Using Custom Post API
+[32m - - [28/Nov/2023:19:02:29] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:02:29] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:02:30] Using Custom Post API
+[32m - - [28/Nov/2023:19:02:30] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:02:31] Using Custom Post API
+[32m - - [28/Nov/2023:19:02:31] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:02:32] Using Custom Post API
+[32m - - [28/Nov/2023:19:02:32] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:02:33] Using Custom Post API
+[32m - - [28/Nov/2023:19:02:34] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:02:36] Using Custom Post API
+[32m - - [28/Nov/2023:19:02:37] "POST /news/stock HTTP/1.1" 200
+[0m[31m - - [28/Nov/2023:19:02:45] "GET /technology/trending-now-netflixs-forecast-competition-heats-up-2022-04-18/ HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:19:03:29] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:03:29] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:03:29] Using Custom Post API
+[32m - - [28/Nov/2023:19:03:29] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:03:30] Using Custom Post API
+[32m - - [28/Nov/2023:19:03:30] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:03:33] Using Custom Post API
+[32m - - [28/Nov/2023:19:03:34] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:03:42] Using Custom Post API
+[32m - - [28/Nov/2023:19:03:42] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:03:43] Using Custom Post API
+[32m - - [28/Nov/2023:19:03:44] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:03:45] Using Custom Post API
+[32m - - [28/Nov/2023:19:03:46] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:03:48] Using Custom Post API
+[32m - - [28/Nov/2023:19:03:48] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:03:57] WebServerThread stopped
+ - - [28/Nov/2023:19:03:57] WebServerThread stopped
+ - - [28/Nov/2023:19:03:57] WebServerThread stopped
+ - - [28/Nov/2023:19:03:57] WebServer stopped
+ - - [28/Nov/2023:19:03:59] WebServerThread stopped
+ - - [28/Nov/2023:19:03:59] WebServerThread stopped
+ - - [28/Nov/2023:19:03:59] WebServerThread stopped
+ - - [28/Nov/2023:19:03:59] WebServer stopped
+[32m - - [28/Nov/2023:19:04:27] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:04:27] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:04:27] Using Custom Post API
+[32m - - [28/Nov/2023:19:04:27] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:04:30] Using Custom Post API
+[32m - - [28/Nov/2023:19:04:30] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:04:31] Using Custom Post API
+[32m - - [28/Nov/2023:19:04:31] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:04:32] Using Custom Post API
+[32m - - [28/Nov/2023:19:04:32] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:04:33] Using Custom Post API
+[32m - - [28/Nov/2023:19:04:33] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:04:34] Using Custom Post API
+[32m - - [28/Nov/2023:19:04:34] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:04:41] Using Custom Post API
+[32m - - [28/Nov/2023:19:04:41] "POST /news/stock HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:05:17] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:05:17] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:05:17] "GET /js/news.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:05:17] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:05:17] Using Custom Post API
+[31m - - [28/Nov/2023:19:05:17] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:19:05:17] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:05:18] Using Custom Post API
+[32m - - [28/Nov/2023:19:05:18] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:05:25] Using Custom Post API
+[32m - - [28/Nov/2023:19:05:25] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:05:35] Using Custom Post API
+[32m - - [28/Nov/2023:19:05:35] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:05:40] Using Custom Post API
+[32m - - [28/Nov/2023:19:05:42] "POST /news/stock HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:06:45] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:06:45] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:06:45] Using Custom Post API
+[32m - - [28/Nov/2023:19:06:46] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:06:48] Using Custom Post API
+[32m - - [28/Nov/2023:19:06:49] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:07:04] Using Custom Post API
+[32m - - [28/Nov/2023:19:07:04] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:07:09] Using Custom Post API
+[32m - - [28/Nov/2023:19:07:09] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:07:23] Using Custom Post API
+[32m - - [28/Nov/2023:19:07:23] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:07:23] Using Custom Post API
+[32m - - [28/Nov/2023:19:07:24] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:07:25] Using Custom Post API
+[32m - - [28/Nov/2023:19:07:25] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:07:26] Using Custom Post API
+[32m - - [28/Nov/2023:19:07:26] "POST /news/stock HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:07:49] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:07:49] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:07:49] Using Custom Post API
+[32m - - [28/Nov/2023:19:07:49] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:07:50] Using Custom Post API
+[32m - - [28/Nov/2023:19:07:51] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:08:00] Using Custom Post API
+[32m - - [28/Nov/2023:19:08:00] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:08:05] Using Custom Post API
+ - - [28/Nov/2023:19:08:13] Using Custom Post API
+ - - [28/Nov/2023:19:08:22] Using Custom Post API
+[32m - - [28/Nov/2023:19:08:23] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:15:45] Using Custom Post API
+[32m - - [28/Nov/2023:19:15:46] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:55:46] Using Custom Post API
+ - - [28/Nov/2023:19:55:46] Using Custom Post API
+[32m - - [28/Nov/2023:19:55:46] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:55:46] Using Custom Post API
+[32m - - [28/Nov/2023:19:55:46] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:55:46] Using Custom Post API
+[32m - - [28/Nov/2023:19:55:46] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:55:47] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:55:53] Using Custom Post API
+ - - [28/Nov/2023:19:55:53] Using Custom Post API
+ - - [28/Nov/2023:19:55:53] Using Custom Post API
+[32m - - [28/Nov/2023:19:55:54] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:55:54] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:55:54] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:55:54] Using Custom Post API
+[32m - - [28/Nov/2023:19:55:54] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:55:54] Using Custom Post API
+ - - [28/Nov/2023:19:55:54] Using Custom Post API
+[32m - - [28/Nov/2023:19:55:54] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:55:54] Using Custom Post API
+[32m - - [28/Nov/2023:19:55:54] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:55:55] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:55:57] Using Custom Post API
+[32m - - [28/Nov/2023:19:55:57] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:55:57] Using Custom Post API
+[32m - - [28/Nov/2023:19:55:57] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:55:58] Using Custom Post API
+[32m - - [28/Nov/2023:19:55:59] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:55:59] Using Custom Post API
+[32m - - [28/Nov/2023:19:55:59] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:56:08] Using Custom Post API
+ - - [28/Nov/2023:19:56:08] Using Custom Post API
+ - - [28/Nov/2023:19:56:08] Using Custom Post API
+[32m - - [28/Nov/2023:19:56:09] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:56:09] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:56:09] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:56:09] Using Custom Post API
+ - - [28/Nov/2023:19:56:09] Using Custom Post API
+[32m - - [28/Nov/2023:19:56:09] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:56:09] Using Custom Post API
+ - - [28/Nov/2023:19:56:09] Using Custom Post API
+[32m - - [28/Nov/2023:19:56:09] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:56:09] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:56:09] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:56:11] Using Custom Post API
+ - - [28/Nov/2023:19:56:11] Using Custom Post API
+[32m - - [28/Nov/2023:19:56:11] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:56:11] Using Custom Post API
+[32m - - [28/Nov/2023:19:56:11] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:56:11] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:56:13] Using Custom Post API
+ - - [28/Nov/2023:19:56:13] Using Custom Post API
+ - - [28/Nov/2023:19:56:13] Using Custom Post API
+[32m - - [28/Nov/2023:19:56:13] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:56:13] Using Custom Post API
+[32m - - [28/Nov/2023:19:56:13] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:56:13] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:56:13] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:56:36] Using Custom Post API
+ - - [28/Nov/2023:19:56:36] Using Custom Post API
+[32m - - [28/Nov/2023:19:56:36] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:56:36] Using Custom Post API
+[32m - - [28/Nov/2023:19:56:36] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:56:36] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:56:40] Using Custom Post API
+ - - [28/Nov/2023:19:56:40] Using Custom Post API
+ - - [28/Nov/2023:19:56:40] Using Custom Post API
+[32m - - [28/Nov/2023:19:56:40] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:56:40] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:56:40] Using Custom Post API
+[32m - - [28/Nov/2023:19:56:40] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:56:40] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:57:09] Using Custom Post API
+ - - [28/Nov/2023:19:57:09] Using Custom Post API
+ - - [28/Nov/2023:19:57:09] Using Custom Post API
+[32m - - [28/Nov/2023:19:57:10] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:57:10] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:57:10] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:57:10] Using Custom Post API
+ - - [28/Nov/2023:19:57:11] Using Custom Post API
+ - - [28/Nov/2023:19:57:11] Using Custom Post API
+[32m - - [28/Nov/2023:19:57:11] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:57:11] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:57:11] Using Custom Post API
+[32m - - [28/Nov/2023:19:57:11] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:19:57:11] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:19:57:18] Using Custom Post API
+[32m - - [28/Nov/2023:19:57:19] "POST /news/stock HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:22] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:22] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:22] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:22] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:01:22] Using Custom Post API
+[31m - - [28/Nov/2023:20:01:22] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:20:01:22] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:01:24] Using Custom Post API
+[32m - - [28/Nov/2023:20:01:24] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:01:24] Using Custom Post API
+ - - [28/Nov/2023:20:01:25] Using Custom Post API
+[32m - - [28/Nov/2023:20:01:25] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:25] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:01:26] Using Custom Post API
+ - - [28/Nov/2023:20:01:26] Using Custom Post API
+[32m - - [28/Nov/2023:20:01:27] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:27] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:01:27] Using Custom Post API
+[32m - - [28/Nov/2023:20:01:28] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:01:28] Using Custom Post API
+ - - [28/Nov/2023:20:01:29] Using Custom Post API
+ - - [28/Nov/2023:20:01:29] Using Custom Post API
+[32m - - [28/Nov/2023:20:01:29] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:29] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:29] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:01:30] Using Custom Post API
+ - - [28/Nov/2023:20:01:30] Using Custom Post API
+[32m - - [28/Nov/2023:20:01:30] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:30] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:01:31] Using Custom Post API
+ - - [28/Nov/2023:20:01:31] Using Custom Post API
+[32m - - [28/Nov/2023:20:01:31] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:31] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:01:33] Using Custom Post API
+ - - [28/Nov/2023:20:01:33] Using Custom Post API
+ - - [28/Nov/2023:20:01:33] Using Custom Post API
+[32m - - [28/Nov/2023:20:01:33] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:34] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:01:34] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:02:13] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:02:13] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:02:13] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:02:13] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:02:13] Using Custom Post API
+[31m - - [28/Nov/2023:20:02:13] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:20:02:13] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:02:17] Using Custom Post API
+ - - [28/Nov/2023:20:02:17] Using Custom Post API
+[32m - - [28/Nov/2023:20:02:17] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:02:17] Using Custom Post API
+ - - [28/Nov/2023:20:02:17] Using Custom Post API
+[32m - - [28/Nov/2023:20:02:17] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:02:17] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:02:17] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:02:18] Using Custom Post API
+[32m - - [28/Nov/2023:20:02:19] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:02:19] Using Custom Post API
+ - - [28/Nov/2023:20:02:19] Using Custom Post API
+[32m - - [28/Nov/2023:20:02:19] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:02:19] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:02:49] Using Custom Post API
+[32m - - [28/Nov/2023:20:02:49] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:02:49] Using Custom Post API
+[32m - - [28/Nov/2023:20:02:49] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:03:46] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:03:47] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:03:47] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:03:47] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:03:47] Using Custom Post API
+[31m - - [28/Nov/2023:20:03:47] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:20:03:47] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:03:51] Using Custom Post API
+[32m - - [28/Nov/2023:20:03:52] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:03:52] Using Custom Post API
+[32m - - [28/Nov/2023:20:03:52] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:03:53] Using Custom Post API
+[32m - - [28/Nov/2023:20:03:53] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:03:54] Using Custom Post API
+ - - [28/Nov/2023:20:03:54] Using Custom Post API
+[32m - - [28/Nov/2023:20:03:54] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:03:55] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:03:56] Using Custom Post API
+[32m - - [28/Nov/2023:20:03:57] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:03:57] Using Custom Post API
+[32m - - [28/Nov/2023:20:03:58] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:03:59] Using Custom Post API
+[32m - - [28/Nov/2023:20:03:59] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:03:59] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:00] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:00] Using Custom Post API
+ - - [28/Nov/2023:20:04:00] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:00] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:00] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:00] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:01] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:01] Using Custom Post API
+ - - [28/Nov/2023:20:04:01] Using Custom Post API
+ - - [28/Nov/2023:20:04:01] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:01] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:01] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:01] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:01] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:02] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:14] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:14] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:14] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:14] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:14] Using Custom Post API
+[31m - - [28/Nov/2023:20:04:14] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:20:04:14] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:15] Using Custom Post API
+ - - [28/Nov/2023:20:04:15] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:15] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:16] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:16] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:16] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:17] Using Custom Post API
+ - - [28/Nov/2023:20:04:17] Using Custom Post API
+ - - [28/Nov/2023:20:04:17] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:17] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:17] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:17] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:17] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:17] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:30] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:30] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:30] "GET /js/news.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:30] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:30] Using Custom Post API
+[31m - - [28/Nov/2023:20:04:30] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:20:04:30] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:32] Using Custom Post API
+ - - [28/Nov/2023:20:04:32] Using Custom Post API
+ - - [28/Nov/2023:20:04:32] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:32] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:32] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:33] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:33] Using Custom Post API
+ - - [28/Nov/2023:20:04:33] Using Custom Post API
+ - - [28/Nov/2023:20:04:33] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:34] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:34] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:34] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:34] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:34] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:40] Using Custom Post API
+ - - [28/Nov/2023:20:04:40] Using Custom Post API
+ - - [28/Nov/2023:20:04:40] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:40] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:41] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:41] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:41] Using Custom Post API
+ - - [28/Nov/2023:20:04:41] Using Custom Post API
+ - - [28/Nov/2023:20:04:41] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:41] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:04:41] Using Custom Post API
+[32m - - [28/Nov/2023:20:04:41] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:41] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:04:42] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:08:15] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:08:15] "GET /css/header.css HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:08:15] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:08:15] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:08:16] Using Custom Post API
+[31m - - [28/Nov/2023:20:08:16] "GET /favicon.ico HTTP/1.1" 404
+[0m[32m - - [28/Nov/2023:20:08:16] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:08:20] Using Custom Post API
+ - - [28/Nov/2023:20:08:20] Using Custom Post API
+[32m - - [28/Nov/2023:20:08:20] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:08:21] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:08:22] Using Custom Post API
+[32m - - [28/Nov/2023:20:08:22] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:08:24] Using Custom Post API
+[32m - - [28/Nov/2023:20:08:24] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:08:32] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:08:32] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:08:32] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:08:32] Using Custom Post API
+[32m - - [28/Nov/2023:20:08:33] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:08:35] Using Custom Post API
+[32m - - [28/Nov/2023:20:08:36] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:08:37] Using Custom Post API
+[32m - - [28/Nov/2023:20:08:37] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:08:41] Using Custom Post API
+[32m - - [28/Nov/2023:20:08:43] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:09:18] WebServerThread stopped
+ - - [28/Nov/2023:20:09:18] WebServerThread stopped
+ - - [28/Nov/2023:20:09:18] WebServerThread stopped
+ - - [28/Nov/2023:20:09:18] WebServer stopped
+ - - [28/Nov/2023:20:09:21] WebServerThread stopped
+ - - [28/Nov/2023:20:09:21] WebServerThread stopped
+ - - [28/Nov/2023:20:09:21] WebServerThread stopped
+ - - [28/Nov/2023:20:09:21] WebServer stopped
+[32m - - [28/Nov/2023:20:09:55] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:09:55] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:09:55] "GET /js/news.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:09:55] Using Custom Post API
+[32m - - [28/Nov/2023:20:09:55] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:09:57] Using Custom Post API
+[32m - - [28/Nov/2023:20:09:58] "POST /news/stock HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:10:36] "GET /www/news.html HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:10:36] "GET /js/news.js HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:10:36] "GET /js/autocomplete.js HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:10:36] Using Custom Post API
+[32m - - [28/Nov/2023:20:10:36] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:10:38] Using Custom Post API
+[32m - - [28/Nov/2023:20:10:39] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:10:55] Using Custom Post API
+[32m - - [28/Nov/2023:20:10:55] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:10:56] Using Custom Post API
+[32m - - [28/Nov/2023:20:10:58] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:03] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:03] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:05] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:05] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:06] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:07] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:08] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:08] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:09] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:10] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:12] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:12] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:13] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:14] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:15] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:15] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:17] Using Custom Post API
+ - - [28/Nov/2023:20:11:18] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:18] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:11:18] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:27] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:28] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:33] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:33] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:40] Using Custom Post API
+ - - [28/Nov/2023:20:11:41] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:41] "POST /autocomplete HTTP/1.1" 200
+[0m[32m - - [28/Nov/2023:20:11:41] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:50] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:50] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:53] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:54] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:55] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:55] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:11:56] Using Custom Post API
+[32m - - [28/Nov/2023:20:11:58] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:12:14] Using Custom Post API
+[32m - - [28/Nov/2023:20:12:14] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:12:14] Using Custom Post API
+[32m - - [28/Nov/2023:20:12:15] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:12:17] Using Custom Post API
+[32m - - [28/Nov/2023:20:12:17] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:12:22] Using Custom Post API
+[32m - - [28/Nov/2023:20:12:22] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:12:23] Using Custom Post API
+[32m - - [28/Nov/2023:20:12:24] "POST /autocomplete HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:12:26] Using Custom Post API
+[32m - - [28/Nov/2023:20:12:27] "POST /news/stock HTTP/1.1" 200
+[0m - - [28/Nov/2023:20:13:31] Using Custom Post API
+[32m - - [28/Nov/2023:20:13:31] "POST /news/stock HTTP/1.1" 200
+[0m
